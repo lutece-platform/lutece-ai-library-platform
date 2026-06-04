@@ -1,0 +1,12 @@
+target/
+node_modules/
+CLAUDE.md
+.claude/
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+.env
+.token-counter
+.github/modernize/
